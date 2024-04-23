@@ -11,5 +11,4 @@ for i in range(1, 11):
     if valor % 2 == 0:
         par +=1
 
-print(par)
 print(f'tem numeros {par} pares e {i-par} numero impares ')
